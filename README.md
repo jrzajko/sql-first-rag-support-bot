@@ -6,6 +6,16 @@ A customer support chatbot for a small business website. It answers common quest
 
 **Runs out of the box on sample data:** `sample-data/` contains the website of *Lantern Lane Yoga*, a fictional studio written for this demo, so you can try the full pipeline without scraping anyone's site. The design decisions and evaluation below come from building and testing the bot on a real small studio's public website; that version isn't published, and no third-party content is included in this repo.
 
+## Demo
+
+![Chatbot demo: four questions answered by the Q&A table, the website pages, a health caution and a polite fallback](docs/demo.gif)
+
+Live answers on the fictional sample studio (sped up):
+1. **"How much is a class?"**: answered instantly from the SQL Q&A table
+2. **"Can I hire a room for a workshop?"**: Claude answers from the retrieved website pages, with sources
+3. **"Is the sauna OK if I'm pregnant?"**: a grounded answer that advises checking with a GP
+4. **"Can I bring my dog?"**: not covered on the website, so the bot hands over to reception instead of guessing
+
 ---
 
 ## How it works
@@ -107,6 +117,7 @@ To use a real website, set `USE_SAMPLE_DATA = False` in the **Settings** cell an
 |---|---|
 | `support_chatbot.ipynb` | The full pipeline, step by step |
 | `sample-data/` | Website text for the fictional Lantern Lane Yoga (9 pages) |
+| `docs/demo.gif` | Screen recording of the chatbot running on the sample data |
 | `requirements.txt` | Python dependencies |
 
 Dependencies are listed in `requirements.txt`.
