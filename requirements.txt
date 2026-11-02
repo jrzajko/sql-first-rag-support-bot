@@ -1,0 +1,13 @@
+langchain-anthropic
+langchain-pinecone
+langchain-huggingface
+langchain-text-splitters
+langchain-community
+pinecone
+pypdf
+beautifulsoup4
+fpdf2
+requests
+numpy
+pandas
+gradio

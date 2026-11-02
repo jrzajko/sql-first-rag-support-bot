@@ -1,0 +1,13 @@
+# Scraped website content (third-party copyright - do not publish)
+pages/
+*.pdf
+
+# Local database built from scraped content
+*.db
+
+# Secrets
+.env
+
+# Python / Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
