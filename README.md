@@ -1,8 +1,10 @@
 # SQL-First RAG Support Chatbot
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jrzajko/sql-first-rag-support-bot/blob/main/support_chatbot.ipynb)
+
 A customer support chatbot for a small business website. It answers common questions instantly from a curated Q&A table in SQL, and falls back to retrieval-augmented generation (RAG) over the scraped website when no stored answer fits.
 
-Built and tested as a learning project on the public website of a small yoga studio. **The notebook is anonymised:** the business's name, contact details and website content have been replaced with placeholders, and cell outputs are cleared, so no scraped content is included. Not affiliated with or endorsed by the studio.
+**Runs out of the box on sample data:** `sample-data/` contains the website of *Lantern Lane Yoga*, a fictional studio written for this demo, so you can try the full pipeline without scraping anyone's site. The design decisions and evaluation below come from building and testing the bot on a real small studio's public website; that version isn't published, and no third-party content is included in this repo.
 
 ---
 
@@ -91,12 +93,21 @@ Retrieval was tested in isolation (no LLM) before building the chatbot, so that 
 
 ## Running it
 
-The project is a single Google Colab notebook: `support_chatbot.ipynb`.
+The project is a single Google Colab notebook: `support_chatbot.ipynb`. Click **Open in Colab** above.
 
 1. Get API keys from [Anthropic](https://console.anthropic.com) and [Pinecone](https://www.pinecone.io).
 2. In Colab, add them under **Secrets** (🔑) as `Anthropic_API_Key` and `Pinecone_API_Key`, with notebook access enabled.
-3. Fill in the **Settings** cell at the top: business name, website, contact phone and the pages to scrape. Check the site's `robots.txt` first, and only build a public-facing bot for a business with its permission.
-4. Run the cells in order. Step 2a calls Claude over the whole site once; review the generated Q&A before saving it.
+3. Run the cells in order. With the default `USE_SAMPLE_DATA = True`, Step 1 loads the fictional studio from this repo. Step 2a calls Claude over the whole site once (a few pence); review the generated Q&A before saving it.
+
+To use a real website, set `USE_SAMPLE_DATA = False` in the **Settings** cell and fill in the business name, website, contact phone and pages to scrape. Check the site's `robots.txt` first, and only build a public-facing bot for a business with its permission.
+
+### Repo contents
+
+| Path | What it is |
+|---|---|
+| `support_chatbot.ipynb` | The full pipeline, step by step |
+| `sample-data/` | Website text for the fictional Lantern Lane Yoga (9 pages) |
+| `requirements.txt` | Python dependencies |
 
 Dependencies are listed in `requirements.txt`.
 

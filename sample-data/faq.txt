@@ -1,0 +1,39 @@
+# Frequently Asked Questions | Lantern Lane Yoga
+
+[FICTIONAL SAMPLE DATA: an invented business created for demonstrating this chatbot.]
+
+I've never done yoga before. Can I come?
+Absolutely. Look for Level 1 classes on the timetable, or join our four-week Foundations course. Let your teacher know it's your first class and they'll offer options throughout.
+
+How early should I arrive?
+For your first visit, please arrive 10 minutes early so we can sign you in and show you around. After that, 5 minutes is plenty.
+
+What if I'm running late?
+Doors close 5 minutes after the class starts, and we can't let anyone in after that. If you can't make it, cancel through the booking system so someone on the waiting list can take your spot.
+
+Do I need to bring a mat?
+No, we provide mats and all props. You're welcome to bring your own if you prefer.
+
+Do you have showers?
+Yes, we have two showers and separate changing rooms. Towels can be hired from reception for £2.
+
+Is there anywhere to store my things?
+There are free lockers in the changing rooms. Bring a £1 coin; it's returned when you open the locker.
+
+How do I book?
+Book online through our timetable at https://www.example.com/schedule/. You can also book at reception or by phone.
+
+Can I cancel a class?
+Studio classes can be cancelled up to 12 hours before the start time; Reformer classes need 24 hours' notice.
+
+Can I pause my membership if I go away?
+Yes. Memberships can be paused once per calendar year for between 2 and 8 weeks. Let us know at least 5 days before your next payment date.
+
+Is the studio accessible?
+Our ground-floor studio and the Reformer room are step-free, and we have an accessible toilet. The upstairs studio is reached by stairs only. Please contact reception if you'd like to talk through your access needs.
+
+Can I use my phone in class?
+Please switch phones to silent and leave them in the changing rooms, so everyone can switch off for the hour.
+
+Do you offer private sessions?
+Yes. Private yoga or Pilates sessions with one of our teachers cost £70 for 60 minutes, and private Reformer sessions cost £80. Contact reception to book.

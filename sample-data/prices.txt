@@ -1,0 +1,34 @@
+# Prices | Lantern Lane Yoga
+
+[FICTIONAL SAMPLE DATA: an invented business created for demonstrating this chatbot.]
+
+Intro Offer
+Three weeks of unlimited studio classes for £45. Available once per person, for new students only. Reformer classes are not included in the Intro Offer.
+
+Studio classes (yoga and Mat Pilates)
+- Drop-in class: £17
+- Online live-stream class: £8
+- 5-class pass: £75 (valid for 2 months)
+- 10-class pass: £140 (valid for 4 months)
+- Unlimited monthly membership: £129 per month, 1-month minimum
+
+Reformer Pilates
+- Drop-in Reformer class: £24
+- First-timer offer: your first 3 Reformer classes for £54
+- 5 Reformer classes: £110 (valid for 2 months)
+
+Garden sauna cabin
+- Single 45-minute session: £15
+- 5 sessions: £65
+- Sauna is free for unlimited monthly members on weekdays before 4pm.
+
+Concessions
+Students and over-65s get 15% off class passes and memberships. Please bring valid ID when you first sign in.
+
+Memberships
+Memberships renew automatically each month. You can cancel with 30 days' notice. You can pause your membership once per calendar year, for between 2 and 8 weeks, with at least 5 days' notice before your next payment date.
+
+Cancellations
+You can cancel a studio class booking up to 12 hours before it starts and the class will be returned to your account. Reformer bookings need 24 hours' notice. Late cancellations and no-shows lose the class.
+
+Gift vouchers are available at reception and online, in any amount from £15.

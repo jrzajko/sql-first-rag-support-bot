@@ -1,0 +1,16 @@
+# Room Hire | Lantern Lane Yoga
+
+[FICTIONAL SAMPLE DATA: an invented business created for demonstrating this chatbot.]
+
+Studio hire
+Our ground-floor studio is available to hire for workshops, small events, rehearsals and photo shoots when it's not in use for classes. It holds up to 20 people on mats and includes mats, props, a sound system and a projector.
+- £35 per hour on weekdays
+- £45 per hour on weekends
+- Minimum booking of 2 hours
+
+Treatment room
+Our treatment room is suitable for massage, osteopathy, acupuncture and talking therapies. It has a treatment couch, a sink and soft lighting.
+- £18 per hour, or £120 for a regular weekly day booking
+
+How to book
+Email or call reception with your preferred dates, the type of event and the number of people. We'll confirm availability within two working days. A 50% deposit secures your booking, and cancellations with more than 7 days' notice are refunded in full.

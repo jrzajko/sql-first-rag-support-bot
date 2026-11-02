@@ -1,0 +1,18 @@
+# Garden Sauna Cabin | Lantern Lane Yoga
+
+[FICTIONAL SAMPLE DATA: an invented business created for demonstrating this chatbot.]
+
+Our wood-fired sauna cabin sits at the back of the studio garden. Sessions last 45 minutes and are shared with up to 4 people. After the heat, cool off under our cold-water bucket shower.
+
+Sauna sessions run daily: weekdays from 7am to 9pm and weekends from 8am to 6pm, with the last session starting 45 minutes before closing. Book sessions through the timetable at https://www.example.com/schedule/.
+
+Prices
+- Single session: £15
+- 5 sessions: £65
+- Free for unlimited monthly members on weekdays before 4pm.
+
+What to bring
+Swimwear, a towel and a water bottle. Towels can be hired from reception for £2. Please shower before using the sauna.
+
+Safety
+The sauna is not recommended during pregnancy, or if you have heart problems, low or high blood pressure, or are feeling unwell. If you're unsure, please check with your GP first. Sauna users must be 18 or over.
